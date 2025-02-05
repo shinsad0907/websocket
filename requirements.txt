@@ -1,2 +1,4 @@
-websockets==11.0.3
-flask==3.0.0
+websocket-client==1.8.0
+websockets==13.1
+﻿Flask==3.0.3
+Flask-Login==0.6.3
